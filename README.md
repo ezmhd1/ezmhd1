@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently learning **Python**
 
+<h3 align="left">- 📭 Social:</h3>
 <p align="left">
   <a href="https://instagram.com/winniwooh">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </p>
 
 <h3 align="left">- 🖥 My Skills:</h3>
-
 ![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
 

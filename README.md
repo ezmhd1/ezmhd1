@@ -5,10 +5,7 @@
 
 - 🔭 I’m currently learning [Python](https://www.python.org/)
 
-<h3 align="left">- 📭 Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/winniwooh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="winniwooh" /></a>
-</p>
+
 
 <h3 align="left">- 🖥 My Skills:</h3>
 <p align="left">

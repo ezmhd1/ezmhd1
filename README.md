@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A developer from IRAN</h3>
 
-<p align="left"> <img src="" alt="mahdicmd" /> </p>
+<p align="left"> <img src="https://s8.uupload.ir/files/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200_8tc8.gif" alt="coding" /> </p>
 
 - 🔭 I’m currently learning [Python](https://www.python.org/)
 

@@ -7,7 +7,7 @@
 
 <h3 align="left">- 📭 Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/winniwooh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="winniwooh" height="30" width="40" /></a>
+<a href="https://instagram.com/winniwooh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="winniwooh" /></a>
 </p>
 
 <h3 align="left">- 🖥 My Skills:</h3>

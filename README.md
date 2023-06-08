@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">- 🖥 My Skills:</h3>
+
 <strong>
   -test
     </strong>

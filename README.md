@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A developer from IRAN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdicmd&label=Profile%20views&color=0e75b6&style=flat" alt="mahdicmd" /> </p>
+<p align="left"> <img src="" alt="mahdicmd" /> </p>
 
 - 🔭 I’m currently learning [Python](https://www.python.org/)
 

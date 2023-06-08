@@ -11,6 +11,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdicmd&show_icons=true&locale=en" alt="mahdicmd" /></p>

@@ -1,4 +1,4 @@
-![MasterHead](https://s8.uupload.ir/files/ezgif.com-crop_6ii.gif)(https://github.com/)
+![MasterHead](https://s8.uupload.ir/files/ezgif.com-crop_6ii.gif)
 ![MasterHead](https://s8.uupload.ir/files/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f_7sx.gif)
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A developer from IRAN</h3>

@@ -6,6 +6,6 @@
 - 🔭 I’m currently learning **Python**
 
 <h3 align="left">- 🖥 My Skills:</h3>
-<p align="center">
+<p align="left">
 ![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
 

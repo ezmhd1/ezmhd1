@@ -9,5 +9,5 @@
 
 
 <h3 align="left">- 🖥 My Skills:</h3>
-![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 

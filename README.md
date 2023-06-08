@@ -3,7 +3,7 @@
 
 <img align='right' src='https://s8.uupload.ir/files/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200_8tc8.gif' width='300'>
 
-- 🔭 I’m currently learning [Python](https://www.python.org/)
+- 🔭 I’m currently learning **Python**
 
 
 

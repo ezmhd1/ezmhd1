@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Python**
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/winniwooh">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>

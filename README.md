@@ -7,5 +7,5 @@
 
 <h3 align="left">- 🖥 My Skills:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&theme=dark)
 

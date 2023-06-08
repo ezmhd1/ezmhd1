@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently learning **Python**
 
-
-
-
-<strong>
-  -test
-    </strong>
+<h3 align="left">- 🖥 My Skills:</h3>
 <p align="left">
 ![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdicmd&show_icons=true&locale=en" alt="mahdicmd" /></p>

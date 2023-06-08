@@ -13,6 +13,7 @@
 <strong>
   - 🖥 My Skills:
     </strong>
+<h3 align="left">- 🖥 My Skills:</h3>
 
 <p align="left">
 

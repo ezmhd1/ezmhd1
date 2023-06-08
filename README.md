@@ -10,7 +10,8 @@
 <a href="https://instagram.com/winniwooh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="winniwooh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<strong>
+  - 🖥 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,figma,unity&theme=dark)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdicmd&show_icons=true&locale=en" alt="mahdicmd" /></p>

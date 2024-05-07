@@ -2,7 +2,7 @@
 ![MasterHead](https://s8.uupload.ir/files/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f_7sx.gif)
 
 <p align="center">
-  <img src="https://picsum.photos/460/300](https://s8.uupload.ir/files/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f_7sx.gif">
+  <img src="https://s8.uupload.ir/files/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f_7sx.gif" alt="animated" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
